@@ -1,0 +1,14 @@
+.idea
+*.model
+*.pyc
+"*.pyc"
+*.zip
+*.pickle
+*.pth
+*/__pycache__/
+"*/__pycache__"
+LRA/datasets/long-range-arena/
+LRA/datasets/lra_release
+LRA/datasets/processed
+LRA/logs/
+LRA/code/wandb/
